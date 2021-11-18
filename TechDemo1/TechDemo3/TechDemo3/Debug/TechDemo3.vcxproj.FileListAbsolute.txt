@@ -1,0 +1,2 @@
+F:\OriginC\源码\WeChatHook1\c\TechDemo1\TechDemo3\TechDemo3\Debug\TechDemo3.exe
+F:\OriginC\源码\WeChatHook1\c\TechDemo1\TechDemo3\TechDemo3\Debug\TechDemo3.pdb

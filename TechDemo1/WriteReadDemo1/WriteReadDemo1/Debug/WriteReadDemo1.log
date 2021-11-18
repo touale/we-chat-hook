@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+  write_ReadDemo.cpp
+F:\OriginC\源码\WeChatHook1\c\TechDemo1\WriteReadDemo1\WriteReadDemo1\write_ReadDemo.cpp(16,18): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“DWORD”
+F:\OriginC\源码\WeChatHook1\c\TechDemo1\WriteReadDemo1\WriteReadDemo1\write_ReadDemo.cpp(26,22): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“DWORD”
+F:\OriginC\源码\WeChatHook1\c\TechDemo1\WriteReadDemo1\WriteReadDemo1\write_ReadDemo.cpp(32,21): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“DWORD”
+  正在生成代码...
+  WriteReadDemo1.vcxproj -> F:\OriginC\源码\WeChatHook1\c\TechDemo1\WriteReadDemo1\WriteReadDemo1\Debug\WriteReadDemo1.dll
